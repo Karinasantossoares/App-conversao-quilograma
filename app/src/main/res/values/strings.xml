@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hora da cozinha</string>
+    <string name="title_convert">É hora de converter!</string>
+    <string name="valor_converter">Valor do kg a ser convertido :</string>
+    <string name="converter_para_gramas">Converter para gramas</string>
+    <string name="converter_para_litro">Converter para litro</string>
+    <string name="converter_para_tonelada">Converter para tonelada</string>
+    <string name="converter_para_miligrama">Converter para miligrama</string>
+</resources>
